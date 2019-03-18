@@ -11,4 +11,4 @@ Initially, the circuit used IR sensors to detect density. It was found that anal
 
 In this system, we use Ultrasonic sensors to measure the traffic density. We have arranged one Ultrasonic sensor for each road; these sensors always sense the traffic on that particular road. All these sensors are interfaced to the microcontroller(ATMEGA328P). Based on these sensors, microcontroller detects the density and controls the traffic system.
 
-![](456.jpg)
+![](file:///C:/Users/FX553VD/Desktop/456.jpg)
