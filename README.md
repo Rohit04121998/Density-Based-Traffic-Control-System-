@@ -8,7 +8,9 @@ This project requires an Arduino and Ultrasonic sensors.
 Initially, the circuit used IR sensors to detect density. It was found that analog data cannot be read. The circuit was then modified by replacing the IR sensors with Ultrasonic sensors
 
 ![Circuit Using IR Sensors](https://www.electronicshub.org/wp-content/uploads/2014/06/Density-Based-Traffic-Lights-System-Circuit-Diagram.jpg)
+###                                               Fig 1. Circuit Using IR Sensors
 
 In this system, we use Ultrasonic sensors to measure the traffic density. We have arranged one Ultrasonic sensor for each road; these sensors always sense the traffic on that particular road. All these sensors are interfaced to the microcontroller(ATMEGA328P). Based on these sensors, microcontroller detects the density and controls the traffic system.
 
 ![](456.jpg)
+###                                                 Fig2. Photo Of Working Device
